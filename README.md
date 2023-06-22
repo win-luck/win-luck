@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chaso1495's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaso1495&show_icons=true&theme=radical)
+![chaso1495's GitHub stats](https://github-readme-stats.vercel.app/api?username=win-luck&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaso1495&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win-luck&layout=compact&theme=radical)
 
 <img width="300px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
