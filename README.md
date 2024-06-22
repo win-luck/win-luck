@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 # Experience
-- SOPT 31th Android (2022.09~2023.01)
-- Google Developer Student Clubs CAU 3rd Core Member (2023.09~2024.08)
+- SOPT 31th, Android (2022.09~2023.01)
+- Google Developer Student Clubs CAU 3rd, Back-End Lead (2023.09~2024.08)
 - Joodra, Embedded Enginner (2024.06~ )
-- Hyundai Softeer Bootcamp 4th Back-End (2024.07~ )
+- Hyundai Motor Group Softeer Bootcamp 4th, Back-End (2024.07~2024.08)
