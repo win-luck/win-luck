@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 # Experience
 - SOPT 31th, Android (2022.09~2023.01)
 - Google Developer Student Clubs CAU 3rd, Back-End Lead (2023.09~2024.08)
-- Joodra, Embedded Enginner (2024.06~ )
-- Hyundai Motor Group Softeer Bootcamp 4th, Back-End (2024.07~2024.08)
+- HYUNDAI Motor Group Softeer Bootcamp 4th, Back-End (2024.07~2024.08)
