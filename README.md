@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![win-luck's GitHub stats](https://github-readme-stats.vercel.app/api?username=win-luck&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win-luck&exclude_repo=ChaeAlgorithm&layout=compact&&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win-luck&exclude_repo=ChaeAlgorithm,be-was-2024-pages&layout=compact&&bg_color=00000000)
 
 <img width="300px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
 
